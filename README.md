@@ -1,4 +1,4 @@
-# tapir_grocer
+# Tapir App
 
 ### Visitors
 - Visitors can check in when visiting Tapir Grocer.
